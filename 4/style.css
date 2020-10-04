@@ -1,0 +1,166 @@
+ 
+body {
+  font-size: 16px;
+  color: black;
+  margin:0;
+
+  padding-top: 0px;
+  
+ 
+  border-top: 0;
+  font-family: 'Oxygen', sans-serif;
+
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #3D6271;
+  border-radius: 0;
+  border: 0;
+
+}
+
+#header-ul{
+	background-color: gray;
+    margin:0em;
+    padding-left:1200px;
+    padding-right:0px;
+
+}
+ul{
+	padding-left: 0;
+	background-color: gray;
+	padding-left:60px;
+}
+
+
+
+
+h3{
+	font-size: 30px;
+}
+
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { 
+  font-family: 'Lora', serif;
+  color: #fff;
+  background-color: #3D6271;
+  font-size: 2em;  
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left:60px;
+  line-height: .75;
+}
+
+#second link{
+	padding-left: 0;
+}
+
+#main-content{
+	background-color: #fff;
+	margin-left: 700px;
+}
+.navbar-details{
+	background-color: #3D6271;
+	border:1px solid black;
+	
+}
+.navbar-details h2{ 
+  font-family: 'Lora', serif;
+  color: #fff;
+  font-size: 1.5em;  
+  font-weight: bold;
+  border:0;
+  }
+#header-Pdata {
+  background-color: #3D6271;
+  margin-left: 60px;
+  margin-right:60px; 
+  border: 1px solid black;
+}
+
+.personaldata{
+	color:black;
+	background-color: #fff;
+}
+
+.navbar-edit{
+	background-color: #fff;
+	border:1px solid black;
+	width:60px;
+	height:40px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.navbar-save{
+	background-color: #fff;
+	border:1px solid black;
+	width:60px;
+	height:40px;
+	margin-top:-52px;
+	margin-left:90px;
+	margin-bottom: 10px;
+}
+.navbar-subject{
+	color:#fff;
+	background-color:#3D6271;
+	border:1px solid black;
+	}
+
+.navbar-subject h3{ 
+  font-family: 'Lora', serif;
+  color: #fff;
+  font-size: 1.5em;  
+  font-weight: bold;
+  border:0;
+  }
+
+#header-contact {
+  background-color: #3D6271;
+  margin-left: 60px;
+  margin-right:60px; 
+  border: 1px solid black;
+}
+
+.contact{
+	color:black;
+	background-color: #fff;
+}
+
+#header-sales {
+  background-color: #3D6271;
+  margin-left: 60px;
+  margin-right:60px; 
+  border: 2px solid black;
+}
+
+.sales{
+	background-color: #fff;
+}
+
+.navbar-sales h4{ 
+  font-family: 'Lora', serif;
+  color: #fff;
+  font-size: 1.5em;  
+  font-weight: bold;
+  border:0;
+  }
+
+
+
+
+footer {
+  color:#fff;
+  margin-left: 60px;
+  margin-right:60px; 
+  background-color:#3D6271 ;
+}
+  
